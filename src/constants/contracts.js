@@ -29,7 +29,7 @@ const contracts = {
   },
   safeStake: {
     97: '',
-    56: '0x1b8fc2245B63EC8275d94036bfa5DF376098Fd88'
+    56: '0xD1dbF594c3617FF4FAbBFf1eD49a130Dc86940c4'
   },
 };
 
