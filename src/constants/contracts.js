@@ -9,15 +9,15 @@ const contracts = {
   },
   sltToken: {
     97: "",
-    56: "0x32A5102b779C5C617c2A43c3467a11e1a1647408",
+    56: "0xd1E68De0D03800FF7f5f90C6BDe9816Fc5743268",
   },
   safeChef: {
     97: "",
-    56: "0xf82aD1873Eda73C1690356FF51c2214CdF0f3302",
+    56: "0xDc2d250900325897EcF4E58D11d5887B6C526706",
   },
   safeReferral: {
     97: "",
-    56: "0x226851FDab534b8653BecF11E15D6768f3fD4464",
+    56: "0x8BFC448A859265a5527211772Fb01B35D3764ebb",
   },
   multiCall: {
     56: "0xfF6FD90A470Aaa0c1B8A54681746b07AcdFedc9B",
