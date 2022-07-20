@@ -13,11 +13,11 @@ const contracts = {
   },
   safeChef: {
     97: "",
-    56: "0xDc2d250900325897EcF4E58D11d5887B6C526706",
+    56: "0x06599D84eF54095F3eEa74dF122E40c4c3F539E9",
   },
   safeReferral: {
     97: "",
-    56: "0x8BFC448A859265a5527211772Fb01B35D3764ebb",
+    56: "0xAE68055AFA713b27960EE227fbB645eFF452dC16",
   },
   multiCall: {
     56: "0xfF6FD90A470Aaa0c1B8A54681746b07AcdFedc9B",
