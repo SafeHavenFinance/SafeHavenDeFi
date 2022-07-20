@@ -65,10 +65,10 @@ const TimeCountText = styled(Heading)`
 `;
 
 const Hero = () => {
-  const pinksaleStartTimeStamp = 1659459600;
-  const privatesaleStartTimeStamp = 1658077200;
-  const privatesaleEndTimeStamp = 1658682000;
-  const pancakeswapLaunchTimeStamp = 1659978000;
+  const pinksaleStartTimeStamp = 1661972400;
+  const privatesaleStartTimeStamp = 1660244400;
+  const privatesaleEndTimeStamp = 1661108400;
+  const pancakeswapLaunchTimeStamp = 1662321600;
   const { account } = useWeb3React();
   const [copySuccess, setCopySuccess] = useState(false);
   const link = `${window.location.origin}/#/launchpad?ref=${btoa(account)}`;
