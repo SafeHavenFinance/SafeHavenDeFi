@@ -16,18 +16,18 @@ const pools = [
   },
  
   {
-    pid: 9,
+    pid: 6,
     stakeSymbol: "SLT",
     lpAddresses: {
       97: "",
-      56: "0x41a7b4f3bf16b710f1ba14c51c32fc0d6e6bab2d",
+      56: "0xd45ca0E8a8d977D906D1959D3B0DBab298aB41EC",
     },
     token: serializedTokens.slt,
     quoteToken: serializedTokens.wbnb,
-    strat: "0x8B422Ef96979f8F2bA3D720a78C64dad443DF332",
+    strat: "0x0265b31d31FeC00778C5d8F19C08697e52Fe7AF0",
   },
   {
-    pid: 13,
+    pid: 7,
     stakeSymbol: "WBNB",
     lpAddresses: {
       97: "",
@@ -46,7 +46,7 @@ const pools = [
     },
     token: serializedTokens.busd,
     quoteToken: serializedTokens.wbnb,
-    strat: "0x64a98754c5B0f043E3d18f89772e2108a1B413bA",
+    strat: "0x9620fe358aEd1e6ed9C476A7a0F2f9146bC5dcAB",
   },
 ];
 
