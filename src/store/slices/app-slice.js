@@ -44,10 +44,10 @@ export const loadAppDetails = createAsyncThunk(
       (await sltTokenContract.totalSupply()) / Math.pow(10, 18);
     const priceOfSLTInBNB =
       (await wrappedBNBContract.balanceOf(
-        "0x41A7B4f3BF16B710f1Ba14c51c32Fc0D6e6Bab2d"
+        "0xd45ca0E8a8d977D906D1959D3B0DBab298aB41EC"
       )) /
       (await sltTokenContract.balanceOf(
-        "0x41A7B4f3BF16B710f1Ba14c51c32Fc0D6e6Bab2d"
+        "0xd45ca0E8a8d977D906D1959D3B0DBab298aB41EC"
       ));
     const priceOfCoinInBNB = WBNBbalanceOfLP / HavenBalanceOfLP;
     const priceOfBNB =
