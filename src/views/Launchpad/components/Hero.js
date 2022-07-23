@@ -263,10 +263,10 @@ const Hero = () => {
         </StyledTitle>
         <StyledLink
           color="#ffbc00"
-          href="https://bscscan.com/address/0xAaE8bc1BC5527217393228af82b2AD4fAecED99F/"
+          href="https://bscscan.com/address/0xd1E68De0D03800FF7f5f90C6BDe9816Fc5743268/"
           target="_blank"
         >
-          0xAaE8bc1BC5527217393228af82b2AD4fAecED99F
+          0xd1E68De0D03800FF7f5f90C6BDe9816Fc5743268
         </StyledLink>
       </Flex>
       <Flex>
