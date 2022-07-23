@@ -129,9 +129,9 @@ function Header({ handleDrawerToggle, mobileOpen }) {
           <BNBPriceText>
             BNB:&nbsp;
             {isAppLoading ? (
-              <Skeleton width={60} />
+              <Skeleton width={30} />
             ) : (
-              `$${new Intl.NumberFormat("en-US").format(priceOfBNB.toFixed(0))}`
+              `$${new Intl.NumberFormat("en-US").format(priceOfBNB.toFixed(4))}`
             )}
           </BNBPriceText>
           <Flex alignItems="center" ml="auto">
