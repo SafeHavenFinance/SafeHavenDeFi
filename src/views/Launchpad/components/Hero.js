@@ -71,7 +71,7 @@ const Hero = () => {
   const pancakeswapLaunchTimeStamp = 1662321600;
   const { account } = useWeb3React();
   const [copySuccess, setCopySuccess] = useState(false);
-  const link = `${window.location.origin}/#/launchpad?ref=${btoa(account)}`;
+  const link = `${window.location.origin}/#/safepad?ref=${btoa(account)}`;
 
   const [currentTimeStamp, setCurrentTimeStamp] = useState(
     Math.floor(new Date().getTime() / 1000)
