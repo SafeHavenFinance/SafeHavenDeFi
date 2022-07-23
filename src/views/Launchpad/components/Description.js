@@ -126,19 +126,19 @@ const Description = () => {
                     <TableCell>244,284</TableCell>
                   </tr>
                   <tr>
-                    <TableCell>Haven holders+</TableCell>
+                    <TableCell>Haven holders 1k+</TableCell>
                     <TableCell>26,000 SLT</TableCell>
                     <TableCell>1.16 BUSD</TableCell>
                     <TableCell>30,160</TableCell>
                   </tr>
                   <tr>
-                    <TableCell>Haven holders+</TableCell>
+                    <TableCell>Haven holders 5k+</TableCell>
                     <TableCell>22,000 SLT</TableCell>
                     <TableCell>1.08 BUSD</TableCell>
                     <TableCell>23,760</TableCell>
                   </tr>
                   <tr>
-                    <TableCell>Haven whales+</TableCell>
+                    <TableCell>Haven whales 10k+</TableCell>
                     <TableCell>17,000 SLT</TableCell>
                     <TableCell>1.02 BUSD</TableCell>
                     <TableCell>17,340</TableCell>
