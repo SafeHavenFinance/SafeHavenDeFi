@@ -36,7 +36,7 @@ const StyledToolbar = styled(Toolbar)`
   height: 80px;
   align-items: center;
   margin: auto;
-  padding: 24px 48px;
+  padding: 12px 48px;
 `;
 
 const BNBPriceText = styled(Text)`
