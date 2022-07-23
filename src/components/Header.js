@@ -36,13 +36,13 @@ const StyledToolbar = styled(Toolbar)`
   height: 80px;
   align-items: center;
   margin: auto;
-  padding: 15px 24px;
+  padding: 1px 2px;
 `;
 
 const BNBPriceText = styled(Text)`
   font-size: 18px;
-  font-weight: 600;
-  white-space: nowrap;
+  font-weight: 300;
+  white-space: wrap;
   align-self: self-end;
   display: none;
   align-items: center;
@@ -129,9 +129,9 @@ function Header({ handleDrawerToggle, mobileOpen }) {
           <BNBPriceText>
             BNB:&nbsp;
             {isAppLoading ? (
-              <Skeleton width={30} />
+              <Skeleton width={60} />
             ) : (
-              `$${new Intl.NumberFormat("en-US").format(priceOfBNB.toFixed(4))}`
+              `$${new Intl.NumberFormat("en-US").format(priceOfBNB.toFixed(2))}`
             )}
           </BNBPriceText>
           <Flex alignItems="center" ml="auto">
