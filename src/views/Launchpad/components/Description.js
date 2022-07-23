@@ -98,9 +98,9 @@ const Description = () => {
             <Text fontWeight="700">3. PRICES</Text>
             <Text>Listing Price: 1 SLT = $1.40</Text>
             <Text>Pinksale Presale Price: 1 SLT = $1.27</Text>
-            <Text>Haven Holders Private Sale - 1k + holders = $1.16</Text>
-            <Text>Haven Holders Private Sale - 5k + holders = $1.08</Text>
-            <Text>Haven Holders Private Sale - 10k + holders = $1.02</Text>
+            <Text>Haven Holders Private Sale - 1 k + holders = $1.16</Text>
+            <Text>Haven Holders Private Sale - 5 k + holders = $1.08</Text>
+            <Text>Haven Holders Private Sale - 10 k + holders = $1.02</Text>
           </ContentBox>
           <ContentBox>
             <Text fontWeight="700">4. POOLS:</Text>
