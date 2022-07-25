@@ -12,7 +12,7 @@ const pools = [
     },
     token: serializedTokens.wbnb,
     quoteToken: serializedTokens.busd,
-    strat: "0x826e77074eD5E5d11d185CA601Afd0af38Cc0a4F",
+    strat: "0xF2A871b11f2A5f5B5554FF8fC461321b35493012",
   },
  
   {
@@ -24,7 +24,7 @@ const pools = [
     },
     token: serializedTokens.slt,
     quoteToken: serializedTokens.wbnb,
-    strat: "0x0265b31d31FeC00778C5d8F19C08697e52Fe7AF0",
+    strat: "0x498166EBd8cA3bAE11FfDdaCC856FE318333Cfd4",
   },
   {
     pid: 7,
@@ -35,7 +35,7 @@ const pools = [
     },
     token: serializedTokens.wbnb,
     quoteToken: serializedTokens.wbnb,
-    strat: "0xed8bfa42BBF7de963068AC807bE72d73a61C980e",
+    strat: "0x799044Fec97b74E08D781a6Fa953849fBb3E5656",
   },
   {
     pid: 8,
@@ -46,7 +46,7 @@ const pools = [
     },
     token: serializedTokens.busd,
     quoteToken: serializedTokens.wbnb,
-    strat: "0x9620fe358aEd1e6ed9C476A7a0F2f9146bC5dcAB",
+    strat: "0xCEA45Ad4e85C1B9A480C62b8299b1bD82E60619c",
   },
 ];
 
