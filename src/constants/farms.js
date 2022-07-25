@@ -12,7 +12,7 @@ const farms = [
     },
     token: serializedTokens.slt,
     quoteToken: serializedTokens.wbnb,
-    strat: "0xb7ab5Eb548fd978d90CAF23d48069E541877584E",
+    strat: "0x43439eee1805351cD639d734E1B33e90A61B7F23",
   },
   {
     pid: 1,
@@ -23,7 +23,7 @@ const farms = [
     },
     token: serializedTokens.slt,
     quoteToken: serializedTokens.busd,
-    strat: "0x421A3d59610270F32aB5042AA0B6c94Bc6a0238D",
+    strat: "0xab6048a033F9a8Ae43674578715Cbe18e2334d14",
   },
   {
     pid: 2,
@@ -34,7 +34,7 @@ const farms = [
     },
     token: serializedTokens.wbnb,
     quoteToken: serializedTokens.busd,
-    strat: "0xe9aC111B9cc68E4FbC5a92B1781cB40Ba66F4d1c",
+    strat: "0xF2A871b11f2A5f5B5554FF8fC461321b35493012",
   },
   {
     pid: 3,
@@ -45,7 +45,7 @@ const farms = [
     },
     token: serializedTokens.usdt,
     quoteToken: serializedTokens.busd,
-    strat: "0x9875bB549013Ae4fA7d774c484A2158944724BBb",
+    strat: "0x626a7bA0dFAB0034f3365073B7B4CDee8a95a4CD",
   },
   {
     pid: 4,
@@ -56,7 +56,7 @@ const farms = [
     },
     token: serializedTokens.usdc,
     quoteToken: serializedTokens.busd,
-    strat: "0x613586Cd289aC05653f0CF239D945E8ca1561E2d",
+    strat: "0x6C2Ca8Bf4c62e2decC0fB48dc3DFdD3Eeb3cC268",
   },
   {
     pid: 5,
@@ -67,7 +67,7 @@ const farms = [
     },
     token: serializedTokens.cake,
     quoteToken: serializedTokens.wbnb,
-    strat: "0xF64c6AD16B08696366b72cA4638aA3d89A7A7e65",
+    strat: "0x4F5F49e404cFDa8E3d0195e3f6B884754De5e479",
   },
 ];
 
