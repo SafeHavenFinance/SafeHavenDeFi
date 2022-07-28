@@ -95,9 +95,6 @@ function NavContent({ mobileOpen, isSmallerScreen, handleDrawerToggle }) {
     if (currentPath.indexOf("safepad") >= 0 && page === "safepad") {
       return true;
     }
-    if (currentPath.indexOf("buyback") >= 0 && page === "buyback") {
-      return true;
-    }
     return false;
   }, []);
 
@@ -274,7 +271,7 @@ function NavContent({ mobileOpen, isSmallerScreen, handleDrawerToggle }) {
           <StyledLink
             component={Link}
             onClick={handleDrawerToggle}
-            href="https://safehavendefi.gitbook.io/untitled/"
+            href="https://docs.safehavendefi.com/"
             target="_blank"
             className={classnames({ active: isActive })}
           >
@@ -287,28 +284,6 @@ function NavContent({ mobileOpen, isSmallerScreen, handleDrawerToggle }) {
               {mobileOpen && (
                 <Text fontSize="16px" fontWeight="600">
                   Whitepaper
-                </Text>
-              )}
-            </Flex>
-          </StyledLink>
-          <StyledLink
-            component={NavLink}
-            onClick={handleDrawerToggle}
-            to="/buyback"
-            isActive={(match, location) => {
-              return checkPage(location, "buyback");
-            }}
-            className={classnames({ active: isActive })}
-          >
-            <Flex alignItems="center">
-              <img
-                alt=""
-                src={isDark ? LaunchPadIcon2 : LaunchPadIcon}
-                style={{ marginRight: mobileOpen ? 10 : 0 }}
-              />
-              {mobileOpen && (
-                <Text fontSize="16px" fontWeight="600">
-                  BuyBack
                 </Text>
               )}
             </Flex>
