@@ -6,4 +6,3 @@ export { default as Pools } from "./Pools";
 export { default as Stake } from "./Stake";
 export { default as Referrals } from "./Referrals";
 export { default as Launchpad } from "./Launchpad";
-export { default as BuyBack } from "./BuyBack";
