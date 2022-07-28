@@ -25,10 +25,11 @@ import StakeIcon2 from "../../../assets/icons/stake2.svg";
 import WhitepaperIcon from "../../../assets/icons/whitepaper.svg";
 import WhitepaperIcon2 from "../../../assets/icons/whitepaper2.svg";
 import AuditIcon from "../../../assets/icons/audit.png";
+import AuditIcon2 from "../../../assets/icons/audit2.png";
 import SltAuditIcon from "../../../assets/icons/sltaudit.svg";
 import SltAuditIcon2 from "../../../assets/icons/sltaudit2.svg";
 import HavenAuditIcon from "../../../assets/icons/havenaudit.svg";
-import HavenAudit2Icon from "../../../assets/icons/havenaudit2.svg";
+import HavenAuditIcon2 from "../../../assets/icons/havenaudit2.svg";
 
 const DappSideBar = styled(Flex)`
   height: calc(100vh - 80px);
