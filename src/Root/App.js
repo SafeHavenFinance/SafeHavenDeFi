@@ -13,8 +13,7 @@ import {
   Pools,
   Stake,
   Referrals,
-  Launchpad,
-  BuyBack
+  Launchpad
 } from "../views";
 import "./style.scss";
 
@@ -82,9 +81,7 @@ function App() {
         <Route path="/safepad">
           <Launchpad />
         </Route>
-        <Route path="/buyback">
-          <BuyBack />
-        </Route>
+        
 
         <Route component={NotFound} />
       </Switch>
