@@ -25,7 +25,7 @@ const contracts = {
   },
   launchpad: {
     97: "",
-    56: "0x271e51fD48F008303D175b44aF84114FA8DAbF28",
+    56: "0xeCff1E269ba5C59d0eE26A8EfC88e20b3534A078",
   },
   safeStake: {
     97: '',
