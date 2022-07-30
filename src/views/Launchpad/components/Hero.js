@@ -275,10 +275,10 @@ const Hero = () => {
         </StyledTitle>
         <StyledLink
           color="#ffbc00"
-          href="https://www.safehavendefi.com/"
+          href="https://www.safehaven.finance/"
           target="_blank"
         >
-          https://www.safehavendefi.com/
+          https://www.safehaven.finance/
         </StyledLink>
       </Flex>
       <Flex>
