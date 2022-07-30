@@ -80,11 +80,11 @@ const Description = () => {
           <Title>⚡️PreSale Infomation⚡️</Title>
           <ContentBox>
             <Text fontWeight="700">1. DATE & TIME:</Text>
-            <Text>⏳Private Sale Starts: July 11th, 2022 @ 7PM UTC</Text>
-            <Text>⏳Private Sale Ends: July 21th, 2022 @ 7PM UTC</Text>
-            <Text>⏳Pinksale Presale starts: Aug 31st, 2022 @ 7PM UTC</Text>
-            <Text>⏳PancakeSwap Launch: Aug 4th, 2022 @ 8PM UTC</Text>
-            <Text>⏳Farms and pools opening: Aug 5th, 2022 @ 8PM UTC</Text>
+            <Text>⏳Private Sale Starts: August 11th, 2022 @ 7PM UTC</Text>
+            <Text>⏳Private Sale Ends: August 21th, 2022 @ 7PM UTC</Text>
+            <Text>⏳Pinksale Presale starts: August 31st, 2022 @ 7PM UTC</Text>
+            <Text>⏳PancakeSwap Launch: September 4th, 2022 @ 8PM UTC</Text>
+            <Text>⏳Farms and pools opening: September 5th, 2022 @ 8PM UTC</Text>
           </ContentBox>
           <ContentBox>
             <Text fontWeight="700">2. TOKEN INFORMATION</Text>
