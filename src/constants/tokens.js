@@ -23,7 +23,7 @@ export const mainnetTokens = {
   ),
   slt: new Token(
     MAINNET, 
-    '0x32A5102b779C5C617c2A43c3467a11e1a1647408', 
+    '0xd1E68De0D03800FF7f5f90C6BDe9816Fc5743268', 
     18, 
     'SLT',
     'SLT', 
