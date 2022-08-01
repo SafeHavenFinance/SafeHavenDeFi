@@ -749,10 +749,10 @@ export default function Home() {
         </HomeHavenIntroduction>
         <HomeHavenIntroductionMain>
           <Text color="text">
-            SafeHaven Defi Ecosystem is a platform of Defi products that enable
+            SafeHaven DeFi is an ecosytstem of decentralized products that enables
             its users to generate passive income by accessing all the products
-            within the ecosystem. All contracts are audited to avert any
-            security concerns, and the team behind the ecosystem is KYC’D.
+            within the protocol. Contracts have been audited to avert all
+            security concerns, and the team behind the ecosystem is KYC’D with solidproof.io.
           </Text>
           <EcosystemImage src={Ecosystem} alt="" />
         </HomeHavenIntroductionMain>
