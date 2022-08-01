@@ -39,7 +39,7 @@ import Marketing from "../../assets/images/Marketing.webp";
 import EarnEthPassivelyMedia from "../../assets/media/Earn_Eth_Passively.mp4";
 
 const landingMedit =
-  "https://video.wixstatic.com/video/7733e8_34f0452913e24590969b851313b77de2/1080p/mp4/file.mp4";
+  "https://video.wixstatic.com/video/7733e8_fbd52a8cbce44a8fb87b99be693a3bb0/1080p/mp4/file.mp4";
 
 const isSafari = () => {
   const ua = navigator.userAgent.toLowerCase();
@@ -517,7 +517,7 @@ export default function Home() {
             preload="auto"
             style="width: 100%; height: 100%; object-fit: cover; object-position: center center;"
           >
-            <source src="https://video.wixstatic.com/video/7733e8_34f0452913e24590969b851313b77de2/1080p/mp4/file.mp4" type="video/mp4" />
+            <source src="https://video.wixstatic.com/video/7733e8_fbd52a8cbce44a8fb87b99be693a3bb0/1080p/mp4/file.mp4" type="video/mp4" />
           </video>
           `,
           }}
