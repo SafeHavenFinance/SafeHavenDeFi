@@ -544,7 +544,8 @@ export default function Home() {
           Earn passive income with crypto.
         </HomePageHeaderTitle>
         <HomePageHeaderText color="textColor">
-          SafeHavenDapp makes it easy to make your crypto work for you.
+          Welcome To SafeHaven DeFi 
+          Your Decentralized Getaway For Passive Income Generation.
         </HomePageHeaderText>
         <Flex justifyContent="center" flexWrap="wrap" mb="16px">
           <Button
@@ -749,7 +750,7 @@ export default function Home() {
         </HomeHavenIntroduction>
         <HomeHavenIntroductionMain>
           <Text color="text">
-            SafeHaven DeFi is an ecosytstem of decentralized products that enables
+            SafeHaven DeFi is an ecosystem of decentralized products that enables
             its users to generate passive income by accessing all the products
             within the protocol. Contracts have been audited to avert all
             security concerns, and the team behind the ecosystem is KYC’D with solidproof.io.
