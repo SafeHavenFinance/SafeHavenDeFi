@@ -45,11 +45,8 @@ const LaunchpadCardDetails = ({
         </SectionSide>
         <Text color="primary" bold fontSize="17px">
           {tokenPrice && totalLPCommitted && totalCommittedPercent ? (
-            `${new Intl.NumberFormat("en-US").format(
-              formatNumber(new BigNumber(totalLPCommitted).toNumber())
-            )} ${tokenLabel} (${totalCommittedPercent}%)`
-          ) : (
-            <Skeleton width={100} />
+            `${parseFloat(totalLPCommitted).toFixed(2)} ${tokenLabel} (${totalCommittedPercent}%)`) : (
+              <Skeleton width = { 100 } />
           )}
         </Text>
       </Flex>
